@@ -50,12 +50,23 @@
 <a href="https://github.com/Wizpna">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wizpna&show_icons=true&theme=light&line_height=27" alt="Promise's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/Wizpna/github_with_graphQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=github_with_graphQL&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/Wizpna/online_radio">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=online_radio&theme=light" />
+</a>
+
+<a href="https://github.com/Wizpna">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wizpna&show_icons=true&theme=light&line_height=27" alt="Promise's github stats"/>
+</a>
+<a href="https://github.com/Wizpna/flutter_and_cloudinary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=flutter_and_cloudinary&theme=light" />
+
+</a>
+<a href="https://github.com/Wizpna/payment_app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=payment_app&theme=light" />
 </a>
 
 <div align="center">
