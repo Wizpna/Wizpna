@@ -24,7 +24,7 @@
 
 
 
-- 🔭 I’m currently working on Mobile App.
+- 🔭 I’m currently working on building lots of Mobile App with Flutter.
 - 🌱 I’m a certified Flutter developer.
 - 👯 I’m open to collaboration on Flutter-based projects.
 - 💬 Ask me about Flutter and Dart.
