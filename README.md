@@ -4,19 +4,19 @@
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/promise-amadi-101759a1/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Promise's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Wizpna">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Promise's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/promise_nzubechi_amadi/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Promise's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/promise.nzubechi.amadi/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Promise's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@promise_amadi">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
+  <img align="left" alt="Promise's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
 </a>
 
 <br/>
@@ -24,14 +24,13 @@
 
 
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working on Mobile App.
+- 🌱 I’m a certified Flutter developer.
+- 👯 I’m open to collaboration on Flutter-based projects.
+- 💬 Ask me about Flutter and Dart.
+- 📫 How to reach me: [Twitter - @promise_amadi1](https://twitter.com/promise_amadi1) , [LinkedIn - Promise Amadi](https://www.linkedin.com/in/promise-amadi-101759a1/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I'm a content writer at https://promise.hashnode.dev/.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
