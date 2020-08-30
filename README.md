@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I'm a content writer at https://promise.hashnode.dev/.
 
 [![Twitter: promise_amadi1](https://img.shields.io/twitter/follow/promise_amadi1?style=social)](https://twitter.com/promise_amadi1)
-[![Linkedin: imthepk](https://img.shields.io/badge/-promise-amadi-101759a1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-amadi-101759a1/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-promise-amadi-101759a1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-amadi-101759a1/)](https://www.linkedin.com/in/promise-amadi-101759a1/)
 [![GitHub Wizpna](https://img.shields.io/github/followers/Wizpna?label=follow&style=social)](https://github.com/Wizpna)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
