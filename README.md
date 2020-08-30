@@ -16,7 +16,7 @@
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@promise_amadi">
-  <img align="left" alt="Pawan's Youtube" width="22px" https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/medium.svg" />
 </a>
 
 <br/>
