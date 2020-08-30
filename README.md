@@ -51,11 +51,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wizpna&show_icons=true&theme=light&line_height=27" alt="Promise's github stats"/>
 </a>
 <a href="https://github.com/Wizpna/github_with_graphQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=github_with_graphQL&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=github_with_graphQL&theme=dark" />
 
 </a>
 <a href="https://github.com/Wizpna/online_radio">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=online_radio&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wizpna&repo=online_radio&theme=dark" />
 </a>
 
 <a href="https://github.com/Wizpna/flutter_and_cloudinary">
